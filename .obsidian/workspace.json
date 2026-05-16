@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math PBL/Invincible's research.md",
+                "file": "Math PBL/references.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Invincible's research"
+              "title": "references"
+            }
+          },
+          {
+            "id": "871a49144b1e9565",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math PBL/Invincible's research 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Invincible's research 1"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,16 +199,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6a678d0b31bef567",
+  "active": "871a49144b1e9565",
   "lastOpenFiles": [
-    "Math PBL/Ivan's research.md",
-    "Math PBL/Invincible's research.md",
     "Math PBL/references.md",
+    "Math PBL/Invincible's research 1.md",
+    "Math PBL/Invincible's research.md",
+    "Math PBL/Ivan's research.md",
     "conflict-files-obsidian-git.md",
     "Ivan's researchs.md",
     "Math PBL",
     "README.md",
-    "Untitled.md",
     "Welcome.md"
   ]
 }
