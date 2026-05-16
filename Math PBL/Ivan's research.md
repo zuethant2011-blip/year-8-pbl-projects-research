@@ -6,3 +6,12 @@ Areas of city operations where ICT, IoT and other smart technologies increasingl
 
 https://www.ibm.com/think/topics/smart-city
 
+### How do you define sustainability?
+
+The most often quoted definition comes from the UN World Commission on Environment and Development: “sustainable development is development that meets the needs of the present without compromising the ability of future generations to meet their own needs.” 
+
+In the [charter](https://sustain.ucla.edu/wp-content/uploads/UCLA-Sustainability-Charter.pdf) for the UCLA Sustainability Committee, sustainability is defined as: “the integration of environmental health, social equity and economic vitality in order to create thriving, healthy, diverse and resilient communities for this generation and generations to come. The practice of sustainability recognizes how these issues are interconnected and requires a systems approach and an acknowledgement of complexity.”
+
+Sustainable practices support ecological, human, and economic health and vitality. Sustainability presumes that resources are finite, and should be used conservatively and wisely with a view to long-term priorities and consequences of the ways in which resources are used. In simplest terms, sustainability is about our children and our grandchildren, and the world we will leave them.
+
+https://sustain.ucla.edu/what-is-sustainability/
