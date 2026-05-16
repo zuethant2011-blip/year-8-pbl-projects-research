@@ -79,3 +79,75 @@ If we continue focusing on developing better ways to convert solar energy into e
 
 source: chatgpt.com
 
+### In what ways can we produce electricity?
+
+# Electricity explainedHow electricity is generated
+
+- [Basics](https://www.eia.gov/energyexplained/electricity/how-electricity-is-generated.php)
+- [+Menu](https://www.eia.gov/energyexplained/#eeMenu)
+
+An electric generator is a device that converts a form of energy into electricity. There are many different types of electricity generators. Most electricity generation is from generators that are based on scientist [Michael Faraday’s](https://www.eia.gov/kids/history-of-energy/famous-people/faraday.php) discovery in 1831. He found that moving a magnet inside a coil of wire makes (induces) an electric current flow through the wire. He made the first electricity generator, called a [Faraday disk](https://en.wikipedia.org/wiki/Electric_generator#Faraday_disk_generator), which operates on the relationship between magnetism and electricity and led to the design of the electromagnetic generators we use today.
+
+Electromagnetic generators use an _electromagnet_—a magnet produced by electricity—not a traditional magnet. A basic electromagnetic generator has a series of insulated wire coils that form a stationary cylinder—called a _stator_—surrounding an electromagnetic shaft—called a _rotor_. Turning the rotor makes an electric current flow in each section of the wire coil, and each section becomes a separate electric conductor. The currents in the individual sections combine to form one large current. This current is the electricity that moves from generators through power lines to consumers. Electromagnetic generators driven by kinetic (mechanical) [_prime movers_](https://www.eia.gov/tools/glossary/index.php?id=Prime%20mover) account for nearly all U.S. electricity generation.
+
+## Turbine driven generators
+
+Most U.S. and world electricity generation is from electric power plants that use a [_turbine_](https://www.eia.gov/tools/glossary/index.php?id=Turbine) to drive electricity generators. In a turbine generator, a moving fluid—water, steam, combustion gases, or air—pushes a series of blades mounted on a rotor shaft. The force of the fluid on the blades spins (rotates) the rotor shaft of a generator. The generator, in turn, converts the mechanical (kinetic) energy of the rotor to electrical energy. Different types of turbines include steam turbines, combustion (gas) turbines, hydroelectric turbines, and wind turbines.
+
+![Diagram of an electric turbine generator.](https://www.eia.gov/energyexplained/electricity/images/electricity-generation-turbine.png)
+
+[Steam turbines](https://www.eia.gov/tools/glossary/index.php?id=Steam%20turbine) are used to generate most of the world’s electricity, and they accounted for about 42% of U.S. electricity generation in 2022. Most steam turbines have a boiler where fuel is burned to produce hot water and steam in a heat exchanger, and the steam powers a turbine that drives a generator. [Nuclear power reactors](https://www.eia.gov/energyexplained/nuclear/nuclear-power-plants-types-of-reactors.php) use nuclear fuel rods to produce steam. [Solar thermal power plants](https://www.eia.gov/energyexplained/solar/solar-thermal-power-plants.php) and most [geothermal power plants](https://www.eia.gov/energyexplained/geothermal/geothermal-power-plants.php) use steam turbines. Most of the [largest U.S. electric power plants](https://www.eia.gov/energyexplained/electricity/electricity-in-the-us-top-10.php) use steam turbines.
+
+[Combustion gas turbines](https://www.eia.gov/tools/glossary/index.php?id=Gas%20turbine%20plant), which are similar to jet engines, burn gaseous or liquid fuels to produce hot gases to turn the blades in the turbine.
+
+Steam and combustion turbines can be operated as stand-alone generators in a _single cycle_ or combined in a sequential, _combined cycle_. [Combined-cycle systems](https://en.wikipedia.org/wiki/Combined_cycle_power_plant) use combustion gases from one turbine to generate more electricity in another turbine. Most combined-cycle systems have separate generators for each turbine. In single-shaft combined-cycle systems, both turbines may drive a single generator. In 2022, combined-cycle power plants supplied about 34% of U.S. [net electricity generation](https://www.eia.gov/tools/glossary/index.php?id=Net%20generation).
+
+[Combined-heat-and-power plants](https://www.eia.gov/tools/glossary/index.php?id=Combined%20heat%20and%20power%20\(CHP\)%20plant) (CHP) and [_cogenerators_](https://www.eia.gov/tools/glossary/index.php?id=Cogenerator), use the heat that is not directly converted to electricity in a steam turbine, combustion turbine, or an internal-combustion-engine generator for industrial process heat or for space and water heating. Most of the largest CHP plants in the United States are at industrial facilities, such as pulp and paper mills, but they are also used at many colleges, universities, and government facilities. CHP and combined-cycle power plants are among the most efficient ways to convert a combustible fuel into useful energy.
+
+[Hydroelectric turbines](https://www.eia.gov/energyexplained/hydropower/) use the force of moving water to spin turbine blades to power a generator. Most hydroelectric power plants use water stored in a reservoir or diverted from a river or stream. These [_conventional hydroelectric power plants_](https://www.eia.gov/tools/glossary/index.php?id=Conventional%20hydroelectric%20plant) accounted for about 6% of U.S. electricity generation in 2022. [Pumped-storage hydropower plants](https://www.eia.gov/tools/glossary/index.php?id=Pumped-storage%20hydroelectric%20plant) use the same types of hydro turbines that conventional hydropower plants use, but they are considered [energy storage systems](https://www.eia.gov/energyexplained/electricity/energy-storage-for-electricity-generation.php). Other types of hydroelectric turbines called _hydrokinetic turbines_ are used in [tidal power](https://www.eia.gov/energyexplained/hydropower/tidal-power.php) and [wave power systems](https://www.eia.gov/energyexplained/hydropower/wave-power.php).
+
+[Wind turbines](https://www.eia.gov/energyexplained/wind/electricity-generation-from-wind.php) use the power in wind to move the blades of a rotor to power a generator. There are two general [types of wind turbines](https://www.eia.gov/energyexplained/wind/types-of-wind-turbines.php): horizontal axis (the most common) and vertical-axis turbines. Wind turbines were the source of about 10% of U.S. electricity generation in 2022.
+
+[Ocean thermal energy conversion (OTEC)](https://www.eia.gov/energyexplained/hydropower/ocean-thermal-energy-conversion.php) systems use a temperature difference between ocean water at different depths to power a turbine to produce electricity.
+
+## Other types of generators
+
+Many different types of electricity generators do not use turbines to generate electricity. The most common in use today are solar photovoltaic (PV) systems and internal-combustion engines.
+
+[Solar photovoltaic cells](https://www.eia.gov/energyexplained/solar/photovoltaics-and-electricity.php) convert sunlight directly into electricity. These cells may be used to power devices as small as wrist watches, or they can be connected to form [modules](https://www.eia.gov/tools/glossary/index.php?id=Photovoltaic%20module) (or _panels_). Modules are connected in _arrays_ that power individual homes or form large power plants. Photovoltaic power plants are now one of the fastest-growing sources of electricity generation around the world. In the United States, PV power plants were the source of about 3% of total utility-scale electricity generation in 2022.
+
+[Internal-combustion engines](https://www.eia.gov/tools/glossary/index.php?id=Internal%20combustion%20plant), such as diesel engines, are used all around the world for electricity generation, including in many remote villages in Alaska. They are also widely used for mobile power supply at construction sites and for emergency or backup power supply for buildings and power plants. Diesel-engine generators can use a variety of fuels, including petroleum diesel, biomass-based liquid fuels and biogas, natural gas, and propane. Small internal-combustion-engine generators fueled with gasoline, natural gas, or propane are commonly used by construction crews and tradespeople and for emergency power supply for homes.
+
+Other types of electricity generators include [fuel cells](https://www.eia.gov/energyexplained/hydrogen/use-of-hydrogen.php), [Stirling engines](https://en.wikipedia.org/wiki/Stirling_engine) (used in [solar thermal parabolic-dish generators)](https://www.eia.gov/solar/solar-thermal-power-plants.php#SolarDish), and [thermoelectric generators](https://www.electrochem.org/dl/interface/fal/fal08/fal08_p54-56.pdf).
+
+[Energy storage systems for electricity generation](https://www.eia.gov/energyexplained/electricity/energy-storage-for-electricity-generation.php) include hydro-pumped storage, compressed-air storage, electrochemical batters, and flywheels. These energy storage systems use electricity to charge a storage facility or device, and the amount of electricity they can supply is less than the amount they use for charging. Therefore, the net electricity generation from storage systems is counted as negative in [EIA](https://www.eia.gov/about) reports ([_Electric Power Monthly_](https://www.eia.gov/electricity/monthly/) and [_Electric Power Annual_](https://www.eia.gov/electricity/annual/)) to avoid double counting electricity use for charging the storage system.
+
+Electricity generators by major type and share of total annual U.S. utility-scale net electricity generation in 2022 1
+|Generator|Plant type|Main fuel/energy source|Share of annual electricity generation|
+|---|---|---|---|
+|**Steam turbine**|**Single cycle**|**All sources**|**42.5%**|
+|||Coal|19.4%|
+|||Nuclear|18.2%|
+|||Natural gas|2.6%|
+|||Biomass (1.0%); Others (1.3%)|2.3%|
+|**Multiple**|**Combined cycle**|**Natural gas2**|**33.8%**|
+|Combustion turbine|||21.4%|
+|Steam turbine|||10.7%|
+|Dual/single shaft|||1.7%|
+|**Combustion gas turbine**|**Single cycle**|**Natural gas2**|**3.6%**|
+|**Wind turbine**|**All types**|**Wind**|**10.3%**|
+|**Hydroelectric turbine**|**Conventional**|**Water**|**6.0%**|
+|**Photovoltaic**|**All types**|**Solar**|**3.3%**|
+|**Others3**||**Various**|**< 1%**|
+|**Storage systems4**||**Various**|**0.2%**|
+
+Data source: U.S. Energy Information Administration (EIA), [_Form EIA-923 Power Plant Operations Report_, final data for 2022](https://www.eia.gov/electricity/data/eia923/)  
+Note: Sum of subtotals may not equal totals because of independent rounding of individual data series.  
+1 Includes generators at power plants with at least one megawatt electricity generation capacity  
+2 Natural gas accounted for 99% of energy sources in combined-cycle power plants and for 95% of energy sources in single-cycle combustion gas turbines.  
+3 Other sources include internal combustion engines, fuel cells, and binary-cycle turbines.  
+4 [Storage systems](https://www.eia.gov/energyexplained/electricity/energy-storage-for-electricity-generation.php) include hydro-pumped storage, electrochemical batteries, compressed-air storage, and flywheels. The percentage share of total utility-scale electricity net generation from energy storage systems for electricity generation is shown as positive in the table above. However, generation from storage systems is published as negative net generation in EIA reports ([_Electric Power Monthly_](https://www.eia.gov/electricity/monthly/) and [_Electric Power Annual_](https://www.eia.gov/electricity/annual/)) to avoid double counting of energy storage charging sources.
+
+_Last updated: October 31, 2023, with data available at the time of update._
+
+source: https://www.eia.gov/energyexplained/electricity/how-electricity-is-generated.php

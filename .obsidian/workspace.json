@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math PBL/Invincible's references.md",
+                "file": "Math PBL/Invincible's research.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Invincible's references"
+              "title": "Invincible's research"
             }
           }
         ]
@@ -186,8 +186,8 @@
   },
   "active": "6a678d0b31bef567",
   "lastOpenFiles": [
-    "Math PBL/Invincible's research.md",
     "Math PBL/Invincible's references.md",
+    "Math PBL/Invincible's research.md",
     "Math PBL/references.md",
     "Math PBL/Ivan's research.md",
     "conflict-files-obsidian-git.md",
