@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math PBL/Guided Questions to do research.md",
+                "file": "Math PBL/Ivan's research.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Guided Questions to do research"
+              "title": "Ivan's research"
             }
           }
         ],
@@ -199,10 +199,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c34b677cdd69d7ad",
+  "active": "b06696540bea7bad",
   "lastOpenFiles": [
-    "Math PBL/Invincible's research.md",
     "Math PBL/Guided Questions to do research.md",
+    "Math PBL/Invincible's research.md",
     "Math PBL/Invincible's references.md",
     "Math PBL/references.md",
     "Math PBL/Ivan's research.md",
