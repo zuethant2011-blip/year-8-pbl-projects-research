@@ -151,3 +151,376 @@ Note: Sum of subtotals may not equal totals because of independent rounding of i
 _Last updated: October 31, 2023, with data available at the time of update._
 
 source: https://www.eia.gov/energyexplained/electricity/how-electricity-is-generated.php
+
+### What are the current available technology in converting solar energy into electricity?
+
+# Solar Energy: From Converting Photons to Sustainable Power
+
+Solar energy, emitted by the sun, comprises bundles of energy called photons, each carrying energy defined by Einstein’s equation (hf). It plays a crucial role in sustaining life on Earth, being a primary source for photosynthesis in plants, providing warmth to all living beings, and aiding in the evaporation of water, leading to the formation of clouds and eventually fresh rainwater.
+
+The immense solar energy originates from the sun’s fusion reactions, converting about four hundred million tons of its mass into energy every second.
+
+The sun’s nuclear fusion reactions, particularly the proton-proton cycle, involve several stages. These reactions begin with the fusion of two protons to form a deuterium nucleus (a hydrogen nucleus with two protons and a neutron). In subsequent steps:
+
+ **The First Step:** Fusion of two protons to form a deuterium nucleus (a hydrogen nucleus consisting of two protons and one neutron).
+
+**The Second Step:** Fusion of a deuterium nucleus with another proton to form helium-3.
+
+**The Third Step:** Fusion of a helium-3 nucleus with another helium-3 nucleus to form 
+
+ This process converts protons into neutrons and releases energy as gamma rays.
+
+Despite its intensity, solar energy reaching Earth’s surface is relatively low due to the vast distance between the Earth and the sun, and Earth’s atmosphere absorbing and scattering the radiation. On a clear day with direct sunlight, only about 30% of the solar energy penetrates the atmosphere. This percentage decreases significantly when the sun is near the horizon or the sky is cloudy. The amount of solar radiation also varies across different locations on Earth.
+
+The total amount of solar energy received by Earth far exceeds global energy usage. If harnessed effectively, this widespread source could meet all future energy needs, given its renewable and non-polluting nature. Consequently, solar energy usage is expected to increase in the 21st century, while the use of limited and polluting fossil fuels like coal, oil, and natural gas is likely to decrease.
+
+### **Solar panels** 
+
+Solar panels are the most common devices for harvesting solar energy. They consist of a dark metallic sheet covered by one or two glass layers that absorb heat. This heat is then transferred to air or water, known as the heat-carrying fluids, flowing through the back of the panel. This heat can be used directly or transferred to another medium. Flat panel collectors, used for heating homes and water, can reach temperatures of 150 to 200 degrees Fahrenheit (66 to 93 degrees Celsius) with an efficiency rate of up to 80%.
+
+For higher temperatures, more concentrated collectors are used. These devices focus sunlight from a large area onto a small, black receiver, significantly intensifying the radiation to produce high temperatures. Solar furnaces using arrays of mirrors or panels can heat fluids to 3600 degrees Fahrenheit (2000 degrees Celsius) or more. This heat can be used for material properties research at high temperatures or to operate boilers generating steam for electric power plants. Solar furnaces have become crucial tools in high-temperature research and steam production.
+
+Solar Power Towers Solar power towers use reflective blades or flat mirrors that track the sun’s movement across the sky. The mirrors are arranged around a central ‘collector tower,’ reflecting sunlight into a concentrated beam that focuses on a point on the tower. Earlier designs heated water in a tank to generate steam for turbines. Recently, some towers have used liquid sodium, which has a higher heat capacity and retains heat longer. This means the liquid not only reaches temperatures of 773 to 1,273 Kelvin (500 to 1000 degrees Celsius or 932 to 1,832 degrees Fahrenheit) but can also continue boiling water and generating power even when the sun isn’t shining.
+
+The first concentrated solar power plants were developed in the 1980s. The world’s largest facility is a series of plants in the Mojave Desert, California. The Solar Energy Generating Systems (SEGS) produce over 650 gigawatt-hours of electricity annually, with other large and efficient plants developed in countries like Spain and India.
+
+Concentrated solar power can also be used on a smaller scale. For example, people in villages worldwide use solar-powered stoves to boil water for cooking.
+
+Solar-powered stoves offer several advantages over wood-burning stoves: they pose no fire hazard, produce no smoke, require no fuel, and do not contribute to deforestation.
+
+### **Photovoltaic cells**
+
+ are a means to generate electric power by converting light directly into electricity using semiconductors. Solar panels consist of several solar cells containing photovoltaic materials such as monocrystalline silicon, polycrystalline silicon, amorphous silicon, cadmium telluride, and gallium indium selenide-sulfide. Due to increasing demand for renewable energy sources, the manufacturing of solar cells and photovoltaics has significantly evolved in recent years.
+
+The capacity of photovoltaic cells has grown rapidly, reaching 46,400 megawatts by the end of 2011, representing 0.5% of global electricity demand, with over 100 countries using photovoltaic solar energy. Solar cells can be installed on the ground (sometimes used with agriculture or grazing) or built into the roof or walls of a building (building-integrated photovoltaics).
+
+#### **Advantages of Photovoltaic Cells**
+
+- Solar panels optimally utilize 98% of sunlight, providing over 6000 times the average human energy needs (15%).
+- They do not cause pollution during operation, producing no waste or emissions and requiring no pollution control or recycling technologies.
+- Solar panels have a long lifespan and require minimal maintenance, with very low capital and operating costs compared to alternative technologies.
+- Connecting solar power collectors to the electrical grid reduces losses, maintaining an efficiency rate exceeding 40%.
+
+#### **Disadvantages of Photovoltaic Cells**
+
+- The use of photovoltaic cells was excluded in Europe due to hazardous material restrictions since 2003, continuing until 2011.
+- Photovoltaic panels in Europe and California contain banned substances like lead, mercury, and cadmium, impacting electronics legislation.
+- Some U.S. states impose significant restrictions on using solar panels in homes.
+- Berkeley shows an innovative initiative using the PACE financing model to overcome these restrictions.
+- The development of vertical solar panels and vertical installation enhances efficiency and improves orientation towards the sun.
+
+Photovoltaic cells and solar energy represent a tremendous advancement in clean and sustainable energy generation. Thanks to technological development and innovation in solar cell manufacturing, this method has become an effective and sustainable way to meet a significant portion of global energy needs.
+
+**Written by Khaled Al-Abdo – Physics Teacher at Masarat Initiative**
+
+[Support Mahmoud, Illuminate His Path](https://www.globalgiving.org/microprojects/support-mahmoud-illuminate-his-path/)
+
+- [Challenges](https://masarat-sy.org/en/tag/challenges/), [education](https://masarat-sy.org/en/tag/education/), [team](https://masarat-sy.org/en/tag/team/), [Technology](https://masarat-sy.org/en/tag/technology/)
+
+source: https://masarat-sy.org/en/solar-energy-from-converting-photons-to-sustainable-power/?rf=pmax_x&gad_source=1&gad_campaignid=22866287685&gbraid=0AAAAA9aXFXOt-jgxjwCiwVb8grYLn-_6K&gclid=CjwKCAjwq6DQBhBVEiwA4ZD5XIdW2_gWtlqLnopKu148xA7cdbGXG7q7jgPy-hF8QKWjX7bVE9PvvBoCi1sQAvD_BwE
+
+### Can a city rely only on solar energy?
+
+Solar Energy in Urban Design: Powering Sustainable Cities
+Solar Energy in Urban Design: Powering Sustainable Cities
+Published: 15. January 2025
+Categories:
+Study
+Tips
+Cities are at the forefront of climate action, shaping how we live and interact with the environment. With urban areas responsible for 70% of global carbon emissions, sustainable urban development has never been more crucial. Enter solar energy: an essential tool for reducing emissions and powering greener cities. But how can urban planners, architects, and policymakers truly integrate solar power into cityscapes? Let’s explore.
+
+Benefits of Integrating Solar Energy in Urban Planning
+Adopting solar energy in urban design offers far-reaching advantages beyond environmental benefits. By integrating solar power into cityscapes, urban areas can tackle pressing challenges and create more sustainable, resilient communities.
+
+Mitigating Climate Change
+Solar energy is pivotal in the fight against climate change. By replacing fossil fuel-based energy sources, cities can dramatically cut greenhouse gas emissions, improving air quality and reducing respiratory and cardiovascular issues caused by pollution. Moreover, it supports global climate goals, such as the Paris Agreement, positioning cities as environmental leaders.
+
+Enhancing Energy Security
+Generating renewable energy locally reduces cities’ vulnerability to supply chain disruptions and volatile energy prices. Decentralised solar systems, like rooftop panels and community projects, enhance resilience during power outages and decrease reliance on centralised grids, ensuring stable energy access.
+
+Easing Infrastructure Strain
+Many cities struggle with ageing electrical grids. Decentralising energy production with solar installations alleviates grid strain, prevents blackouts, and reduces transmission losses, ensuring efficient and reliable power delivery.
+
+Economic Benefits
+The economic case for solar is compelling. The renewable energy sector creates jobs in installation, maintenance, and manufacturing. Additionally, solar panels for business, households, and municipalities reduce bills, freeing resources for other needs. As solar technology becomes more affordable, these benefits extend to broader communities, promoting equity in renewable energy access.
+
+
+Solar Energy Integration Strategies in Urban Design
+Urban areas are transforming into renewable energy hubs, with solar integration paving the way for cleaner, more efficient cities.
+
+Building-Integrated Photovoltaics (BIPV)
+Building-integrated photovoltaics (BIPV) are revolutionising architecture by embedding solar technology into building materials. Solar facades, transparent solar windows, and shading systems that double as solar collectors combine functionality with design. These innovations maximise energy efficiency while inspiring architects to create striking, sustainable structures.
+
+Solar-Powered Public Spaces
+Imagine sitting on a solar-powered bench that charges your devices or walking through parks illuminated by solar streetlights. These innovations not only enhance the functionality of urban areas but also foster community engagement with renewable energy. Solar-powered charging stations in busy areas provide convenient access to clean energy for residents and visitors alike. In recreational areas, solar panels seamlessly integrate with design features, creating shaded spots while generating electricity—a perfect blend of practicality and sustainability.
+
+Transportation Infrastructure
+Transportation systems are embracing solar innovation. Solar-powered buses, trams, and bike lanes reduce reliance on fossil fuels, while solar canopies in parking lots generate electricity and provide shaded spaces. Solar integration in transport hubs like bus stops and railway stations makes clean energy a visible and accessible part of urban mobility.
+
+
+Urban Planning Considerations for Solar Energy
+Integrating solar energy into urban design requires thoughtful planning to maximise its potential. From optimising building placement to fostering community projects, effective urban planning can ensure that solar energy becomes a cornerstone of sustainable cities.
+
+Building Orientation and Solar Access
+Building orientation is crucial for efficient solar energy harnessing. Urban planners can optimise layouts to maximise sunlight exposure, often by aligning rooftops to capture sunlight throughout the day. Preventing shading from neighbouring buildings or trees is essential, with setbacks and height restrictions safeguarding access to sunlight. In dense urban areas, tiered building designs and reflective surfaces can enhance solar absorption.
+
+Zoning and Regulations
+Solar-friendly zoning laws and policies encourage widespread adoption. These include mandatory solar installations for new developments, reduced permitting fees, and incentives like tax breaks and grants. “Solar access rights” protect existing installations from future developments that might block sunlight, fostering an environment where solar energy thrives.
+
+Community Solar Initiatives
+Community solar projects allow multiple households or businesses to share a single solar installation’s benefits. These shared projects are invaluable in urban settings with limited space or where homeownership is less common. They ensure solar access for renters, low-income households, and those living in shaded areas, advancing energy equity while reducing fossil fuel reliance.
+
+
+Challenges and Solutions in Solar Energy Integration
+Technical Challenges
+Solar energy’s mismatch between daytime production and nighttime demand necessitates effective storage solutions. Advances in battery technology, such as lithium-ion and solid-state batteries, are improving storage efficiency. Microgrid systems also offer a promising solution, enabling localised energy production and storage to operate independently or alongside main grids, enhancing resilience.
+
+Economic Considerations
+The upfront cost of solar infrastructure can be prohibitive. Fortunately, free commercial solar through financing mechanisms like power purchase agreements (PPAs), where third parties install and maintain systems in exchange for long-term energy purchase contracts, make solar adoption feasible. Government incentives like tax credits and grants further reduce costs, ensuring solar is accessible to municipalities, businesses, and individuals.
+
+Aesthetic Concerns
+In urban areas with historic architecture or strict aesthetic guidelines, the visual impact of solar installations can be a concern. Innovations like BIPV, solar tiles, and customisable designs ensure renewable energy complements urban aesthetics, proving sustainability and style can coexist.
+
+The Path Forward
+Solar energy is more than just a renewable resource—it’s a transformative force in urban design. By addressing technical, economic, and aesthetic challenges, cities can harness the sun’s power to build sustainable, energy-efficient communities that inspire a greener future. Now is the moment for urban planners, architects, and policymakers to lead the way, turning solar potential into a tangible reality for tomorrow’s cities.
+
+
+
+source: http://impactday.eu/blog/solar-energy-in-urban-design-powering-sustainable-cities/
+
+---
+# Solar Cities and Regions: Cities facilitating development
+
+by Thérèse O Donoghue - 10 October 2023
+
+![](https://api.solarpowereurope.org/uploads/Dronepicr_cb168faa4e.png)
+
+With three quarters of the European population living in urban areas, the bulk of energy consumption is happening in cities' territory – around 80% in the European Union. The number of people living in cities is constantly growing, and so is city demand for sustainable electricity, transport, heating, and cooling.
+
+Cities are at the frontline of the energy transition. Solar is one of the key solutions to support cities in reducing their energy-related emissions and providing access to cheap, reliable energy for all! Furthermore, cities offer lots of rooftops and building space for solar PV to be placed, vital to ensuring Europe meets its energy and climate ambitions.
+
+_Ultimately, solar can support cities, and cities can support solar._
+
+**In this blog series, we will highlight 21 solar solutions for cities in the energy transition, starting off with how solar can help drive city climate and energy security goals. Below you can read solutions 12, 13, 14, and 15 in our series. You can find solutions 1-11 in our** [**previous blog posts**](https://www.solarpowereurope.org/features)**.**
+
+![](https://api.solarpowereurope.org/uploads/Maesi64_2_b734e97901.jpg)
+
+Photo: © Maesi64
+
+Cities and local authorities are important partners for solar PV deployment. These actors not only own an important stock of public buildings, they define the rules for urban planning and permitting – they are the first contact point when it comes to authorising solar PV projects.  
+
+In some cities, citizens and project developers lack data on solar potential and constraints, which makes it difficult to assess the economic viability of solar projects, and might deter investment in solar PV solutions
+
+But good news! There are different solar solutions to address these issues, including bringing information to citizens, multiple use rooftops, setting solar rooftop standards, and cities becoming a single contact point.
+
+Solution 12 : Bringing information to citizens
+
+In order to reinforce information to local citizens about their solar potential, the city of Brussels has created a ‘solar map’ that provides a first estimation of the solar rooftop potential for all rooftops in the Brussels region. This solar map showcases the environmental, energy, and financial opportunities available to install solar PV on specific rooftops. It is accessible for all citizens and private companies within the limits of 12 kWp per installation – above which, additional grid network connection investment is necessary.
+
+In Croatia in 2022, the city of Zagreb together with the North-West Croatia Regional Energy and Climate Agency (REGEA), developed a number of energy-related IT tools aimed at citizens, including solar PV potential tool, a Zagreb energy atlas, and a public building renovation monitor.
+
+![](https://api.solarpowereurope.org/uploads/Jean_Pol_GRANDMONT_da99ef3796.jpg)
+
+Photo: © Jean-Pol Grandmont
+
+Solution 13: Multiple use rooftops
+
+In 2022, a pilot project with vertical bifacial solar panels on a green roof (biosolar roof) was installed on a school in Oslo. The pilot project of approximately 5 kWp had successful results, and in 2023, the installation will be expanded to 50 kWp to cover the entire rooftop.
+
+The solution is developed by the Norwegian startup Over Easy Solar, [winner of SolarPower Europe’s Startup Award 2022.](https://www.solarpowereurope.org/press-releases/solar-excellence-shines-through-solar-start-up-award-2022) This shows how we can get the most out of green urban rooftops, and solar energy generation.
+
+![](https://api.solarpowereurope.org/uploads/Over_Easy_Solar_f50447bad9.png)
+
+Photo: © Over Easy Solar
+
+Solution 14: Setting Solar rooftop standards
+
+In Berlin, from January 1, 2023, new and existing buildings that undergo a fundamental roof renovation and are in private use, must be equipped with solar PV on their building rooftop. Alternatively, the system can be installed on the building façade. New buildings must cover at least 30% of their gross roof area, while existing buildings must cover at least 30% of their net roof area with photovoltaic systems.
+
+Solution 15: Cities as a single contact point
+
+As early signatories of the Covenant of Mayors, Poreč-Parenzo committed to a 40% emission reduction by 2030. More recently, the town has been encouraging citizens to play a part in the energy transition, and develop their energy community, Parentium. This energy community is creating new and viable financing models for energy retrofits in historic public buildings, by means of integrating community-owned renewable energies. In addition, at the beginning of 2023, Porec launched its ‘Sunny Office’, a place where anyone interested in deploying solar energy installations can receive support free of charge.
+
+In Spain, Valencia aims to cover the energy needs of its neighbourhoods with renewable energy - mostly solar - by 2030. The main instruments to achieve this target are one-stop-shops for the energy transition, i.e., energy offices.
+
+Download the full report [here](https://www.solarpowereurope.org/insights/thematic-reports/solar-cities-21-solar-solutions-for-the-city-energy-transition-1), and listen to our solar cities podcast [here](https://www.solarpowereurope.org/insights/podcasts/policycast-solar-cities).
+
+Stay tuned for more solar city solutions!
+
+**Header image**: ©Dronepicr
+
+source: https://www.solarpowereurope.org/features/solar-cities-cities-facilitating-development-1
+
+---
+s it possible to power a city solely using wind and solar energy?
+Sort
+Profile photo for Robert Cook
+Robert Cook
+ · 
+Follow
+BS-NE, MS-QA in Nuclear Energy & Physics, Texas A&M University (TAMU) (Graduated 1978)
+ · 
+6y
+Originally Answered: Is it possible for any city to run strictly on electricity as their source of power via wind, solar or water?
+I notice Norway was used as examples below.
+
+Gee. No owing with diesel tractors, no harvesting, pruning, weeding or sowing with tractors, no harvesting or posted combined. No trucks.
+
+Electric power for ALL good processing, canning, cooking, preserving and sterilization of the good and pipes and kettles. I imagine its possible somewhete.
+
+No clothes either . Can harvest cotton, plant it, harvest or clean the bolls. Can't ship it either without trucks, cranes, or all-electric ships and ports and derricks and and manufacturing buildings. No polyesters, no silks because no all-electric airplanes and tr… (more)
+Promoted by Almedia
+Is it really possible to earn real cash just by watching YouTube every day?
+Profile photo for Charlee Anthony
+Charlee Anthony
+ · 
+Follow
+Go-to Resource for Realistic, Side Hustle Ideas
+ · 
+Updated Apr 17
+Yes. multiple users from Freecash made up to $1,110 in only 30 days… playing games while just watching YouTube videos in their free time.
+
+I didn’t even want to share this because I’ll definitely get a ton of hate. I know what I say sounds ridiculous. But it’s all real with freecash.
+
+I work with thousands of users from Freecash, and I'll admit I was hesitant to share this because I know how it sounds. Ridiculous, right? But the numbers our users are putting up are real.
+
+The stories we hear over and over go something like this:
+
+a user hears about Freecash from a co-worker who's suddenly buying round… (more)
+Related
+Can wind and/or solar provide the energy needs of a large city without traditional power plants as a backup, and why?
+Profile photo for Chris Uhlik
+Chris Uhlik
+ · 
+Follow
+Former Engineering Director (retired) at Google (company) (2002–2017)
+ · 
+6y
+Let's look at a random example... I'll take Nashville Tennessee as a representative "large city". 24th largest in the United States, so not huge, but definitely large. Population about 2 million people and size about 500 square miles.
+
+
+Next, you asked about "energy" not electricity. Many people confuse the two, thinking that all we need to do to stop global climate change is to stop generating electricity from fossil fuels like coal and gas. But we also use a lot of energy in non-electrical forms. The most visible is putting gasoline in our cars, but people think of that as easily electrified. W… (more)
+Related
+Can wind and/or solar provide the energy needs of a large city without traditional power plants as a backup, and why?
+Profile photo for Ned Ford
+Ned Ford
+ · 
+Follow
+Former Volunteer Conservation Chair (1982–2019)
+ · 
+6y
+The lower 48 states of the U.S. is essentially three large grids. If you postulate the most economic response to global warming we will have approximately 45% of our electricity supplied by wind, 45% of it supplied by solar, and 10% of it supplied by the mix we have today, mostly hydro, biomass and geothermal, not including the existing wind and solar which will be part of the 45% shares.
+
+Before we get to 100% renewable we need to have some method of storing electricity. Battery technologies today (there are several) are cheap enough to permit this, but before we get from here to there we are g… (more)
+Promoted by ComparisonAdviser
+What secret about your industry can you share now that you don’t work for them anymore?
+Profile photo for Carl Madden
+Carl Madden
+ · 
+Follow
+Finance Security Expert
+ · 
+8mo
+Oh boy, where do I even start? After 8 years as an auto insurance agent, I have zero loyalty left to protect these companies.
+
+We Had "Loyalty Lists" Every month, I'd get a report of customers who hadn't shopped around in 2+ years. These were our golden geese - we could raise their rates aggressively because they'd proven they wouldn't leave. One customer I remember was paying $3,200 annually for coverage that should have cost $1,800. She stayed for 5 years.
+
+The "File and Use" Scam Here's something most people don't know: in many states, insurance companies can raise your rates immediately and ju… (more)
+Profile photo for Steve Baker
+Steve Baker
+ · 
+Follow
+Senior Software Engineer (2013–present)
+ · 
+6y
+Originally Answered: Is it possible for any city to run strictly on electricity as their source of power via wind, solar or water?
+I think so - but this is a slightly tricky one.
+
+For example:
+
+We might still need oil to use as a lubricant (for example) - and various by-products of coal are used to make dyes and other chemicals. Tar (from oil) is used in roofing and road surfacing. But in none of these cases is this “power” so it falls beyond the scope of your question. If we mined coal and oil and ONLY used them for these purposes, they wouldn’t contribute to global warming - so they’d be OK.
+There are niche applications - such as cooking - where using gas as an energy source is important for the end product in ways that it w
+… (more)
+Related
+Is it possible to run on only solar or wind power?
+Profile photo for Dennis
+Dennis
+ · 
+Follow
+Retired oil and gas
+ · 
+3y
+No of course not. Anyone claiming otherwise is really, really dumb or really, really dishonest. It’s not at all complicated. USA-wide wind has a capacity factor of about 30% and solar about 20%. Currently we get about 4x more electricity from wind than solar, but solar is the new darling, “cheaper than fossil fuels”, they say.
+
+What they ignore is the cost of storage if FF’s are completely excluded. Battery storage for a few days of cloudy and calm costs at least 10x more than the solar panels and wind turbines. So “technically”, it’s possible to run on only solar or wind or a blend of the two, … (more)
+Promoted by The Penny Hoarder
+What's your most unhinged advice to combat the insane cost of living?
+Profile photo for Lisa Dawson
+Lisa Dawson
+ · 
+Follow
+Personal Finance Writer at The Penny Hoarder (2010–present)
+ · 
+Updated 19h
+Let’s be real — the usual advice about skipping lattes or canceling Netflix is a joke. The cost of living has gone feral, and a $6 coffee isn’t the reason most of us are broke.
+
+If you actually want to survive right now, you need tricks that feel a little off the rails — like slashing bills you didn’t even know were ripping you off, or getting paid for stuff you already waste time on anyway. It’s not glamorous, but it works. Here are the “unhinged” money moves that actually make a dent.
+
+1. Cancel Your Car Insurance
+
+You might not even realize it, but your car insurance company is probably overcharg… (more)
+Profile photo for Dennis Reynolds
+Dennis Reynolds
+ · 
+Follow
+Retired Construction Superintendent (1997–present)
+ · 
+1y
+Originally Answered: Would it be feasible to build a power plant solely using solar panels or wind turbines to provide energy for an entire city?
+Such a plant would require massive battery storage to mitigate the effects of peak demand and peak supply cycles. It would also probably require the city’s residents to be very energy efficient and aware, using passive solar, LED lighting, induction cooktops and microwave ovens, and anything else that can reduce their energy demands.
+
+There are already several solar farms around the area where I live but the variations in demand and production mean these farms just help reduce the load on traditional power plants.
+Related
+How sufficient are solar and wind power?
+Profile photo for Brian
+Brian
+ · 
+Follow
+Scientist, inventor, entrepreneur. (1964–present)
+ · 
+Updated 7y
+What is the reliability of wind and solar power?
+
+The reliability of solar and wind is exceptional. But they are predictably variable and that must be accommodated as we accommodated the inflexibility of baseload generators when they used to be cheap. In fact, the very same reserve generators are used by the two most reliable grids on earth, Germany and Denmark, to gap fill their solar and wind, so both have gone 100% renewable for times, and then to very low amounts of renewable energy coming into the grid, with no blackouts or grid disruptions. The reliability of wind and solar dominated grids… (more)
+Promoted by Savings Pro
+What are some financial mistakes the majority of Americans make?
+Profile photo for Mark Bradley
+Mark Bradley
+ · 
+Follow
+Economist
+ · 
+Updated 9mo
+As a self-proclaimed financial enthusiast, I've spent countless hours discussing money habits with people.
+
+These are the most common mistakes people make and how to correct them:
+
+
+Not having a high-yield savings account
+
+Having a separate high interest savings account helps you visibly track your progress and keeps your funds segregated, reducing the temptation to spend. With interest rates exceeding 5.00%, the potential earnings compared to typical banks can be significant.
+
+Check out this list of the top savings accounts available today. Deposit $5 before scrolling down further because this is one … (more)
+Profile photo for Stephen Carey
+Stephen Carey
+ · 
+Follow
+A marine engineer for over 50 years.
+ · 
+6y
+Originally Answered: Is it possible for any city to run strictly on electricity as their source of power via wind, solar or water?
+The whole country of Norway runs strictly on hydro power. They don’t use any of their oil and gas, it’s all exported and the money paid into their sovereign wealth fund for when the oil and gas run out. All factories and manufacturing (though small) is electrically powered so essentially carbon free. Only vehicles consume fossil fuels, and those are bought on the usual open market as refined products.
+
+There are many cities in the United States that have hydro power, but I am not sure which are solely dependent on it - Mr Google will have the answer to that.
+
+source: https://www.quora.com/Is-it-possible-to-power-a-city-solely-using-wind-and-solar-energy
