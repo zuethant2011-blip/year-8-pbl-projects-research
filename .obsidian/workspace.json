@@ -4,35 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "c1f0a10d77041bcd",
+        "id": "d5aa7d7098fbd5c7",
         "type": "tabs",
         "children": [
           {
-            "id": "6a678d0b31bef567",
+            "id": "8ca67a709ca58245",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math PBL/Invincible's research.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Invincible's research"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
-            "id": "b06696540bea7bad",
+            "id": "5a3ebc0a2cfced4d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math PBL/Guided Questions to do research.md",
+                "file": "Math PBL/Ivan's research.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Guided Questions to do research"
+              "title": "Ivan's research"
             }
           }
         ],
@@ -68,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Why",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ivan's researchs.md",
+                "file": "Math PBL/Ivan's research.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +116,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Ivan's researchs"
+              "title": "Backlinks for Ivan's research"
             }
           },
           {
@@ -129,12 +125,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ivan's researchs.md",
+                "file": "Math PBL/Ivan's research.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Ivan's researchs"
+              "title": "Outgoing links from Ivan's research"
             }
           },
           {
@@ -172,13 +168,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ivan's researchs.md",
+                "file": "Math PBL/Ivan's research.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Ivan's researchs"
+              "title": "Outline of Ivan's research"
             }
           }
         ]
@@ -200,17 +196,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c34b677cdd69d7ad",
+  "active": "5a3ebc0a2cfced4d",
   "lastOpenFiles": [
     "Math PBL/Invincible's research.md",
-    "Math PBL/Guided Questions to do research.md",
     "Math PBL/Invincible's references.md",
+    "Math PBL/Guided Questions to do research.md",
     "Math PBL/references.md",
     "Math PBL/Ivan's research.md",
-    "conflict-files-obsidian-git.md",
-    "Ivan's researchs.md",
     "Math PBL",
-    "README.md",
-    "Welcome.md"
+    "Untitled.md",
+    "Welcome.md",
+    "README.md"
   ]
 }
