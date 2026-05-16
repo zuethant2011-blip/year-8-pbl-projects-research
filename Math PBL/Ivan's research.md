@@ -1,0 +1,4 @@
+What is a smart city?
+A smart city is an urban area where technology and data collection help improve quality of life as well as the sustainability and efficiency of city operations. Smart city technologies used by local governments include information and communication technologies (ICT) and the [Internet of Things](https://www.ibm.com/think/topics/internet-of-things) (IoT).
+
+Areas of city operations where ICT, IoT and other smart technologies increasingly play an important role include transportation, energy and infrastructure. As a city updates its systems and structures to incorporate these technologies, it becomes smarter. However, exactly which cities should be considered smart cities or should claim the mantle of the “smartest” city is a matter of debate.
